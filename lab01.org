@@ -4,6 +4,11 @@
 #+OPTIONS: html-postamble:nil
 #+STARTUP: showeverything entitiespretty
 #+SETUPFILE: ../theme-bigblow.setup
+Alma Smoot
+Max Bakes
+Darren Kersey
+Austin Burke
+
 
 Please Set Timers, They will be part of your grade.
 

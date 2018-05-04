@@ -76,10 +76,85 @@ but if you start at 3rd then you need to do the 6th.
 
 You must put them in this file!
 
-* DO NOT INCLUDE THIS PART BELOW FOR THE LAB
-* ######## FOR PUZZLES AND PROJECTS #########
-A more Brother Neff-like assignment, with a Brother Benning twist!
+* Exercise: 1
+** DONE UCA
+   CLOSED: [2018-05-03 목 20:09]
+   :LOGBOOK:
+   CLOCK: [2018-05-03 목 20:08]--[2018-05-03 목 20:09] =>  0:00004 :END:
+#+begin_note
+  Start your exercise warmup by thinking up three examples and three
+  non-examples of propositions. Make them pithy.
+#+end_note
+#+begin_info
+  1.) Unicorns are mythical creatures.
+  2.) South Koreas flag is white with black stripes and a red and black yin-yang.
+  3.) Eight hours of sleep a night is required for an average person
+  non:
+  1.) Are you going to eat that?
+  2.) Go to the store-room and grab the broom.
+  3.) Listen to the music.
+#+end_info
 
+Exercise: 4
+#+begin_info
+  Your answer goes here.
+#+end_info
+** DONE OGR
+   CLOSED: [2018-05-03 목 20:10]
+   :LOGBOOK:
+   CLOCK: [2018-05-03 목 20:10]--[2018-05-03 목 20:10] =>  0:05
+   :END:
+#+begin_note
+  Which of the following are simple (not compound) propositions?
+
+  1. Weeks are shorter than months.
+  2. Days are longer than hours and minutes.
+  3. Hours are longer than minutes and seconds are shorter than minutes.
+  4. People can fly or pigs can sing.
+#+end_note
+#+begin_info
+  1 and 2 are simple propositions.
+#+end_info
+
+
+Exercise: 7
+** DONE UOX
+   CLOSED: [2018-05-03 목 20:10]
+   :LOGBOOK:
+   CLOCK: [2018-05-03 목 20:10]--[2018-05-03 목 20:10] =>  0:15
+   :END:
+#+begin_note
+  What other special forms besides =if= does elisp have for doing conditionals?
+  Why are they called \ldquo{}special\rdquo?
+:HINT:
+  - Hint :: You can find at least six.
+:END:
+#+end_note
+#+begin_info
+  1.) =and=
+  2.) =while=
+  3.) =catch=
+  4.) =cond=
+  5.) =defvar=
+  6.) =let=
+  They are called special because not all of these conditionals arguments
+  are evaluated.
+#+end_info
+
+Exercise: 10
+** DONE UIN
+   CLOSED: [2018-05-03 목 20:16]
+   :LOGBOOK:
+   CLOCK: [2018-05-03 목 20:12]--[2018-05-03 목 20:16] =>  0:04
+   :END:
+#+begin_note
+  What is the set difference between the set of letters in the English alphabet
+  and the set of letters in the Hawaiian alphabet?
+#+end_note
+#+begin_info
+  The difference between the letters in the two alphabets is that the Hawaiian alphabet is made up of thirteen
+  letters, 5 vowels and 8 consonants.
+#+end_info
 Please Complete all Problems and Puzzles including the 'optional ones', but skipping the exercises.
 I would recommend working together.  As always I will give out hints
 periodically.

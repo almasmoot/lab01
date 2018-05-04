@@ -13,3 +13,6 @@ as people come if they could look at the projects and other things so that we ca
 Who will email the link?
 
 -Darren Kersey
+
+I will go ahead and do that.
+-Alma Smoot

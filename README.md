@@ -21,3 +21,5 @@ What still needs to be done on this lab, I tried following doing every third exe
 If someone could put the letters of the ones that still need to be done I would appreciate it.
 
 -Alma Smoot
+
+everyone, please put your names in this file so I can put it in the Lab01

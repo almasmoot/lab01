@@ -24,7 +24,7 @@ B says: A and I are opposite type.
 What is A: goblin
 What is B: goblin
 
-* TODO 8 duds and 1 armed bomb.
+* DONE 8 duds and 1 armed bomb.
 Some idiot forgot to disarm a bomb that is laid in the 'decomisioned' bomb pile.
 Unfortunately the only way to tell which bomb is armed is to use a special weighing system.
 To add insult to injury we don't know if the armed bomb weighs less or more on the system just that it weighs differently.

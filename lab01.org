@@ -17,9 +17,9 @@ Goblins only lie.
 A says: B is a unicorn.
 B says: A and I are opposite type.
 
-What is A:
-What is B:
-
+What is A: Goblin
+What is B: Goblin
+0:01-Alma
 * TODO 8 duds and 1 armed bomb.
 Some idiot forgot to disarm a bomb that is laid in the 'decomisioned' bomb pile.
 Unfortunately the only way to tell which bomb is armed is to use a special weighing system.
@@ -27,7 +27,11 @@ To add insult to injury we don't know if the armed bomb weighs less or more on t
 But there is yet another catch the weighing system only have two charges left, but it can weight any number of bombs at once.
 Your job is to tell which 1 bomb out of the 9 bombs is armed while only using the weighing machine twice.
 
-* TODO The BEAST
+* DONE The BEAST
+  CLOSED: [2018-05-03 Thu 18:21]
+  :LOGBOOK:
+  CLOCK: [2018-05-03 Thu 18:21]--[2018-05-03 Thu 18:21] =>  0:00
+  :END:
 The Shoe Shack has made several top-dollar sales today. 
 Using only the clues below, match each customer to their foot size, 
 shoe brand and final purchase price.
@@ -52,14 +56,14 @@ No option in any category will ever be used more than once.
 
 Solution
 
-| Shoe Sizes | Customers | Brands | Prices |
-|          4 |           |        |        |
-|          5 |           |        |        |
-|          6 |           |        |        |
-|          7 |           |        |        |
-|          8 |           |        |        |
-|          9 |           |        |        |
-|         10 |           |        |        |
+| Shoe Sizes | Customers | Brands   | Prices |
+|          4 |  Marie    |Graffetz  |   185  |
+|          5 |  Vanessa  |Schtillet |   215  |
+|          6 |  Lucia    | Cormano  |   155  |
+|          7 |    X      |Tinghill  |   260  |
+|          8 |  Natalie  |Williford |   125  |
+|          9 |  Francine |    Y     |   245  |
+|         10 |   Ruth    |Abbot Hill|   170  |
 
 * TODO Exercises
 In 01-ponder do every third exercise. 

@@ -1,3 +1,4 @@
+
 # lab01
 CS237 lab01
 
@@ -7,5 +8,8 @@ as people come if they could look at the projects and other things so that we ca
 
 -Alma Smoot
 
+
+
 Who will email the link?
+
 -Darren Kersey

@@ -6,3 +6,6 @@ Shiwoo22 and darrenjk Awesome work, I had the same answers as you for the lab01 
 as people come if they could look at the projects and other things so that we can try to keep track that would help
 
 -Alma Smoot
+
+Who will email the link?
+-Darren Kersey

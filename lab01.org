@@ -31,6 +31,10 @@ To add insult to injury we don't know if the armed bomb weighs less or more on t
 But there is yet another catch the weighing system only have two charges left, but it can weight any number of bombs at once.
 Your job is to tell which 1 bomb out of the 9 bombs is armed while only using the weighing machine twice.
 
+
+     For the first charge, you weigh 3 and 3 on each side of the scale. If they're different, weigh the heavier set of three for the next
+     charge. If they're the same, weigh the unweighted bombs for the second charge. Weigh 1 bomb on each side of the scale leaving one bomb unweighted. If
+     they're different, the heavier bomb is armed. If they're the same, the unweighted bomb is armed.
 * DONE The BEAST
   CLOSED: [2018-05-03 Thu 18:45]
   :LOGBOOK:
@@ -99,7 +103,7 @@ Exercise: 4
 #+begin_info
   Your answer goes here.
 #+end_info
-** DONE OGR
+DONE OGR
    CLOSED: [2018-05-03 목 20:10]
    :LOGBOOK:
    CLOCK: [2018-05-03 목 20:10]--[2018-05-03 목 20:10] =>  0:05

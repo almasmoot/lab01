@@ -164,5 +164,103 @@ Please Complete all Problems and Puzzles including the 'optional ones', but skip
 I would recommend working together.  As always I will give out hints
 periodically.
 
+** DONE OQT
+   :LOGBOOK:
+   CLOCK: [2018-05-04 Fri 10:12]--[2018-05-04 Fri 10:23] =>  0:11
+   :END:
+#+begin_note
+  Let /p/ and /q/ be the propositions:
+
+  /p/: I studied.
+
+  /q/: I got an A on the test.
+
+  Express each of the propositions below as an English sentence:
+  1. /p/ \rarr /q/
+  2. \not /p/ \lor \not /q/
+  3. \not /p/ \rarr (p \lor q)
+  4. \not /p/ \rarr \not /q/
+#+end_note
+
+** DONE UWY
+   :LOGBOOK:
+   CLOCK: [2018-05-04 Fri 10:28]--[2018-05-04 Fri 10:28] =>  0:00
+   :END:
+#+begin_note
+  Use truth tables to verify the distributive laws.
+  1. $p \wedge (q \lor r) \equiv (p \wedge q) \lor (p \wedge r)$.
+  2. $p \vee (q \wedge r) \equiv (p \vee q) \wedge (p \vee r)$.
+
+#+end_note
+#+begin_info
+  Your answer goes here.
+    p \wedge (q \lor r) \equiv 
+    (p q r =)
+     0 0 0 0
+     0 0 1 0
+     0 1 0 0
+     0 1 1 0
+     1 0 0 0
+     1 0 1 1
+     1 1 0 1
+     1 1 1 1
+     (p \wedge q) \lor (p \wedge r)$.
+     (p q r =)
+     0 0 0 0
+     0 0 1 0
+     0 1 0 0
+     0 1 1 0
+     1 0 0 0
+     1 0 1 1
+     1 1 0 1
+     1 1 1 1
+   Yes, they are logically equivelant.
+
+   p \vee (q \wedge r) \equiv 
+    (p q r =)
+     0 0 0 0 
+     0 0 1 0
+     0 1 0 0
+     0 1 1 1
+     1 0 0 1
+     1 0 1 1
+     1 1 0 1
+     1 1 1 1
+
+(p \vee q) \wedge (p \vee r)$.
+     (p q r =)
+     0 0 0 0 
+     0 0 1 0
+     0 1 0 0
+     0 1 1 1
+     1 0 0 1
+     1 0 1 1
+     1 1 0 1
+     1 1 1 1
+   Yes, they are logically equivelant.
+#+end_info
+
+** DONE OYP
+   :LOGBOOK:
+   CLOCK: [2018-05-04 Fri 10:29]--[2018-05-04 Fri 10:29] =>  0:00
+   :END:
+#+begin_note
+  Match the following set identities with their counterparts in the
+  miscellaneous logic laws:
+
+  1. A \cap U = A
+  2. A \cup U = U.
+  3. A \cup \empty = A.
+  4. A \cap \empty = \empty.
+  5. $\overline{\overline{\mathsf{A}}} = \mathsf{A}$.
+#+end_note
+#+begin_info
+
+  1. idempotence
+  2. absorption
+  3. idempotence
+  4. absorption
+  5. double negation
+#+end_info
 (NOTE:I would keep all your exercises/problems/puzzles you do, if you
 take DM 2, you may find these extreeeeeeeeeemly helpful, or not)

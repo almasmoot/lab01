@@ -16,3 +16,8 @@ Who will email the link?
 
 I will go ahead and do that.
 -Alma Smoot
+
+What still needs to be done on this lab, I tried following doing every third exercise, but I got confused.
+If someone could put the letters of the ones that still need to be done I would appreciate it.
+
+-Alma Smoot

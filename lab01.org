@@ -65,6 +65,8 @@ Solution
 |          9 |  Francine |    Y     |   245  |
 |         10 |   Ruth    |Abbot Hill|   170  |
 
+Alma-1:30
+
 * TODO Exercises
 In 01-ponder do every third exercise. 
 That is if you start at the first or 1st then you need to do 4th,

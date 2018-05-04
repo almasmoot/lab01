@@ -164,23 +164,32 @@ Please Complete all Problems and Puzzles including the 'optional ones', but skip
 I would recommend working together.  As always I will give out hints
 periodically.
 
-** DONE OQT
-   :LOGBOOK:
-   CLOCK: [2018-05-04 Fri 10:12]--[2018-05-04 Fri 10:23] =>  0:11
-   :END:
+
+
+
+** DONE UTQ
 #+begin_note
   Let /p/ and /q/ be the propositions:
 
-  /p/: I studied.
+  /p/: You applied for admission at BYU-Idaho.
 
-  /q/: I got an A on the test.
+  /q/: You were accepted.
 
-  Express each of the propositions below as an English sentence:
-  1. /p/ \rarr /q/
-  2. \not /p/ \lor \not /q/
-  3. \not /p/ \rarr (p \lor q)
-  4. \not /p/ \rarr \not /q/
+  Express these sentences as propositions using logical connectives.
+  1. You applied for admission at BYU-Idaho and were accepted.
+  2. You did not apply for admission at BYU-Idaho but were still accepted.
+  3. You applied for admission at BYU-Idaho but were not accepted.
+  4. Either you did not apply for admission at BYU-Idaho and didn\rsquo{}t get accepted
+     or you did apply and got accepted.
 #+end_note
+#+begin_info
+
+    1. /p/ \land /q/
+    2. \not /p/ \land /q/
+    3. /p/ \land \not /q/
+    4. (\not /p/ \land \not /q/)\lor(/p/ \land /q/)
+#+end_info
+
 
 ** DONE UWY
    :LOGBOOK:

@@ -11,14 +11,18 @@ As a group or individually create a public repo on github.
 Then create your own file with your solutions.  Please include
 the name of each team member. 
 
-* TODO Welcome to the world of unicorns, goblins
+* DONE Welcome to the world of unicorns, goblins
+  CLOSED: [2018-05-03 Thu 18:38]
+  :LOGBOOK:
+  CLOCK: [2018-05-03 Thu 18:37]--[2018-05-03 Thu 18:38] =>  0:01
+  :END:
 In this world unicorns only tell the truth.
 Goblins only lie.
 A says: B is a unicorn.
 B says: A and I are opposite type.
 
-What is A:
-What is B:
+What is A: goblin
+What is B: goblin
 
 * TODO 8 duds and 1 armed bomb.
 Some idiot forgot to disarm a bomb that is laid in the 'decomisioned' bomb pile.
@@ -27,7 +31,11 @@ To add insult to injury we don't know if the armed bomb weighs less or more on t
 But there is yet another catch the weighing system only have two charges left, but it can weight any number of bombs at once.
 Your job is to tell which 1 bomb out of the 9 bombs is armed while only using the weighing machine twice.
 
-* TODO The BEAST
+* DONE The BEAST
+  CLOSED: [2018-05-03 Thu 18:45]
+  :LOGBOOK:
+  CLOCK: [2018-05-03 Thu 18:38]--[2018-05-03 Thu 18:45] =>  0:07
+  :END:
 The Shoe Shack has made several top-dollar sales today. 
 Using only the clues below, match each customer to their foot size, 
 shoe brand and final purchase price.
@@ -52,14 +60,14 @@ No option in any category will ever be used more than once.
 
 Solution
 
-| Shoe Sizes | Customers | Brands | Prices |
-|          4 |           |        |        |
-|          5 |           |        |        |
-|          6 |           |        |        |
-|          7 |           |        |        |
-|          8 |           |        |        |
-|          9 |           |        |        |
-|         10 |           |        |        |
+| Shoe Sizes | Customers | Brands      | Prices |
+|          4 |     Marie |    Graffetz |   $185 |
+|          5 |   Vanessa |   Schtillet |   $215 |
+|          6 |     Lucia |     Cormano |        |
+|          7 |           |    Tinghill |   $260 |
+|          8 |   Natalie |   Williford |   $125 |
+|          9 |  Francine |             |   $245 |
+|         10 |      Ruth | Abbott Hill |   $170 |
 
 * TODO Exercises
 In 01-ponder do every third exercise. 

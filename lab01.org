@@ -25,6 +25,9 @@ What is A: goblin
 What is B: goblin
 
 * DONE 8 duds and 1 armed bomb.
+  :LOGBOOK:
+  CLOCK: [2018-05-04 Fri 11:08]--[2018-05-04 Fri 11:11] =>  0:03
+  :END:
 Some idiot forgot to disarm a bomb that is laid in the 'decomisioned' bomb pile.
 Unfortunately the only way to tell which bomb is armed is to use a special weighing system.
 To add insult to injury we don't know if the armed bomb weighs less or more on the system just that it weighs differently.

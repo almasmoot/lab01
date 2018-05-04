@@ -154,6 +154,7 @@ Exercise: 10
 #+begin_info
   The difference between the letters in the two alphabets is that the Hawaiian alphabet is made up of thirteen
   letters, 5 vowels and 8 consonants.
+     Additionally, the set difference is B C D F G J Q R S T V X Y Z.
 #+end_info
 Please Complete all Problems and Puzzles including the 'optional ones', but skipping the exercises.
 I would recommend working together.  As always I will give out hints

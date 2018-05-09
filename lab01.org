@@ -4,6 +4,11 @@
 #+OPTIONS: html-postamble:nil
 #+STARTUP: showeverything entitiespretty
 #+SETUPFILE: ../theme-bigblow.setup
+Alma Smoot
+Max Bakes
+Darren Kersey
+Austin Burke
+
 
 Please Set Timers, They will be part of your grade.
 
@@ -35,9 +40,14 @@ But there is yet another catch the weighing system only have two charges left, b
 Your job is to tell which 1 bomb out of the 9 bombs is armed while only using the weighing machine twice.
 
 
-     For the first charge, you weigh 3 and 3 on each side of the scale. If they're different, weigh the heavier set of three for the next
-     charge. If they're the same, weigh the unweighted bombs for the second charge. Weigh 1 bomb on each side of the scale leaving one bomb unweighted. If
-     they're different, the heavier bomb is armed. If they're the same, the unweighted bomb is armed.
+Answer:
+       For the first charge, you weigh 3 and 3 on each side of the scale.
+       If they're different, weigh the heavier set of three for the next
+       charge. If they're the same, weigh the unweighted bombs for the second charge.
+       Weigh 1 bomb on each side of the scale leaving one bomb unweighted. If
+       they're different, the heavier bomb is armed. If they're the same, the unweighted bomb is armed.
+
+
 * DONE The BEAST
   CLOSED: [2018-05-03 Thu 18:45]
   :LOGBOOK:
@@ -65,7 +75,7 @@ No option in any category will ever be used more than once.
 14. The Abbott Hill footwear was 5 sizes larger than the $215 pair.
 15. The Williford footwear was 1 size smaller than the $245 pair.
 
-Solution
+Solution:
 
 | Shoe Sizes | Customers | Brands      | Prices |
 |          4 |     Marie |    Graffetz |   $185 |
@@ -102,11 +112,8 @@ You must put them in this file!
   3.) Listen to the music.
 #+end_info
 
-Exercise: 4
-#+begin_info
-  Your answer goes here.
-#+end_info
-DONE OGR
+* Exercise: 4
+* DONE OGR
    CLOSED: [2018-05-03 목 20:10]
    :LOGBOOK:
    CLOCK: [2018-05-03 목 20:10]--[2018-05-03 목 20:10] =>  0:05
@@ -123,8 +130,7 @@ DONE OGR
   1 and 2 are simple propositions.
 #+end_info
 
-
-Exercise: 7
+* Exercise: 7
 ** DONE UOX
    CLOSED: [2018-05-03 목 20:10]
    :LOGBOOK:
@@ -148,7 +154,7 @@ Exercise: 7
   are evaluated.
 #+end_info
 
-Exercise: 10
+* Exercise: 10
 ** DONE UIN
    CLOSED: [2018-05-03 목 20:16]
    :LOGBOOK:
@@ -167,10 +173,30 @@ Please Complete all Problems and Puzzles including the 'optional ones', but skip
 I would recommend working together.  As always I will give out hints
 periodically.
 
+* Exersize: 13
+* DONE OIO
+  :LOGBOOK:
+  CLOCK: [2018-05-04 Fri 16:12]--[2018-05-04 Fri 16:28] =>  0:16
+  :END:
+#+begin_note
+  Here is a setq chain ilustrating subsetsize compared to superset size:
 
+  (setq A [s i z e]
+        a 4
+        B [b i g g e r i n s i z e]
+        b 12
+        A-is-a-subset-of-B t
+        a-is-less-than-or-equal-to-b t)
 
-
-** DONE UTQ
+  Write or find built-in functions so that you can revise this chain of
+  assignments to avoid literals 4, 12 and t,
+  instead replacing them with function calls.
+#+end_note
+#+begin_info
+  Use funcall or apply to find the cardinallity of A and B.
+  To avoid t we need to write a defun to iterate through both list.
+#+end_info
+* DONE UTQ
 #+begin_note
   Let /p/ and /q/ be the propositions:
 
